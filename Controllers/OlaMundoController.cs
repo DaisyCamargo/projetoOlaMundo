@@ -9,7 +9,7 @@ namespace OlaMundo.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Olá Mundo!";
+            return "Olá Daisy!";
         }
         [HttpPost]
     public string Post(string frase)
