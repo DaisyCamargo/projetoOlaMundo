@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using OlaMundo.Classes;
 
 namespace OlaMundo.Controllers
 {
@@ -16,6 +17,14 @@ namespace OlaMundo.Controllers
                 return "Darlene";
 
             return "Sarah";
+        }
+
+        [HttpPost]
+        public ClienteEnvioModel Post([FromBody] ClienteEnvioModel cliente)
+        {
+            //return $"{cliente.Nome} {cliente.Sobrenome}";
+            //return string.Format("{0} {1}", cliente.Nome, cliente.Sobrenome);
+            return cliente;
         }
     }
 }
