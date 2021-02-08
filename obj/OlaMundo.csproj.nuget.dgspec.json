@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daisy\\Projetos\\OlaMundo\\OlaMundo.csproj": {}
+    "C:\\Projetos\\projetoOlaMundo\\OlaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daisy\\Projetos\\OlaMundo\\OlaMundo.csproj": {
+    "C:\\Projetos\\projetoOlaMundo\\OlaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daisy\\Projetos\\OlaMundo\\OlaMundo.csproj",
+        "projectUniqueName": "C:\\Projetos\\projetoOlaMundo\\OlaMundo.csproj",
         "projectName": "OlaMundo",
-        "projectPath": "C:\\Users\\daisy\\Projetos\\OlaMundo\\OlaMundo.csproj",
+        "projectPath": "C:\\Projetos\\projetoOlaMundo\\OlaMundo.csproj",
         "packagesPath": "C:\\Users\\daisy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daisy\\Projetos\\OlaMundo\\obj\\",
+        "outputPath": "C:\\Projetos\\projetoOlaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daisy\\AppData\\Roaming\\NuGet\\NuGet.Config"
